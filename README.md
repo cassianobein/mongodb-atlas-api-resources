@@ -24,3 +24,6 @@ __2. Configure MongoDB Atlas__
 
 
 
+## Tips
+
+Once you have imported this collection you will notice that we have a folder sturcture following the order showed in the [MongoDB Atlas API Resources Documentation](https://docs.atlas.mongodb.com/reference/api-resources/) 
