@@ -21,8 +21,9 @@ __2. Configure MongoDB Atlas__
 * Create a free [MongoDB Atlas Account](https://account.mongodb.com/account/register) to have access to a free cluster to play around.
    Here is a coupon code **GOATLAS10** for some credits to explore more features (valid as of August 2021). 
 * Create an [API key](https://docs.atlas.mongodb.com/configure-api-access/) and save the Public/Private key to use when calling APIs
+* Click at the Atlas Collection, under the Auth tab choose the Digest Auth Type and use the Public key as the user and the private key as your password 
 
-
+![AUTH](img/1-authentication.png "AUTH")
 
 ## Tips
 
