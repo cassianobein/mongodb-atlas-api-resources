@@ -14,7 +14,7 @@ This is a repo with a Postman collection containing all avaiable API calls (as o
 __1. Configure Laptop__
 * [Download](https://www.postman.com/downloads/) and install Postman on your laptop
 * [Training](https://learning.postman.com/) on Postman is available and it has been choosen by its poppularity
-* [Import](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman) the MongoDB-Atlas.postman_collection.json collection into your Postman workspace
+* [Import](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman) the *MongoDB-Atlas.postman_collection.json* collection into your Postman workspace
  
 
 __2. Configure MongoDB Atlas__
@@ -23,7 +23,7 @@ __2. Configure MongoDB Atlas__
 * Create an [API key](https://docs.atlas.mongodb.com/configure-api-access/) and save the Public/Private key to use when calling APIs
 * Click at the Atlas Collection, under the Auth tab choose the Digest Auth Type and use the Public key as the user and the private key as your password 
 
-![AUTH](img/1-authentication.png "AUTH")
+![AUTH](img/3-Authentication.png "AUTH")
 
 ## Tips
 
