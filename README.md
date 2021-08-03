@@ -29,4 +29,11 @@ __2. Configure MongoDB Atlas__
 Once you have imported this collection you will notice that we have a folder sturcture following the order showed in the [MongoDB Atlas API Resources Documentation](https://docs.atlas.mongodb.com/reference/api-resources/). Inside the folders you will find all the APIs calls to that specific resource.  Each call will have a sample request, but for more options on the same API call check the documentation. You can find the direct link to the documentation on the documentation section in Postman.
 
 
+*Folder structure* 
+
 ![FOLDER](img/1-folder-structure.png "FOLDER")
+
+
+*Documentation link on the documentation section of Postman*
+![DOCUMENTATION](img/2-documentation.png "DOCUMENTATION")
+
