@@ -13,7 +13,7 @@ This is a repo with a Postman collection containing all avaiable API calls (as o
 ## Setup
 __1. Configure Laptop__
 * [Download](https://www.postman.com/downloads/) and install Postman on your laptop
-* [Training](https://learning.postman.com/) on Postman is available and it was choosen by its poppularity
+* [Training](https://learning.postman.com/) on Postman is available and it has been choosen by its poppularity
 * [Import](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman) the MongoDB-Atlas.postman_collection.json collection into your Postman workspace
  
 
