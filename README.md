@@ -24,9 +24,15 @@ __2. Configure MongoDB Atlas__
 * Create an [API key](https://docs.atlas.mongodb.com/configure-api-access/) with Organization Owner privileges and save the public/private key to use when calling APIs. Also, don't forget to add your laptop/workstation IP to the API access list. 
 * Navigate to your Project Settings and retrieve your Project ID so it can be used in one of our examples below. 
 
+![PROJ](img/2.1-ProjectID.png "PROJ")
 
+
+__3. Configure and use Postman__
+* [Import](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman) the MongoDB-Atlas.postman_collection.json collection and Atlas.postman_environment.json environment variables found in this repo into your Postman workspace.
+* Click on the MongoDB Atlas Collection. Under the Authorization tab, choose the Digest Auth Type and use the public key as the user and the private key as your password.
 
 ![AUTH](img/3-Authentication.png "AUTH")
+
 
 
 
