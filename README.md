@@ -70,3 +70,5 @@ One last tip: Once you have tested all your API calls to build your automation, 
 ![CODE2](img/9-code-snippet-python.png "CODE2")
 
 
+Please always refer to the [online documentation](https://docs.atlas.mongodb.com/reference/api-resources/) for any changes or new resources. Also, feel free to make pull requests to update the project with new API resources, fixes, and enhancements. 
+
