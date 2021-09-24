@@ -33,7 +33,7 @@ __3. Configure and use Postman__
 
 ![AUTH](img/3-Authentication.png "AUTH")
 
-
+* Open up the **Get All Clusters** API call under the cluster folder.
 
 
 
