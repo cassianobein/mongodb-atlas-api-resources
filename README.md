@@ -35,6 +35,17 @@ __3. Configure and use Postman__
 
 * Open up the **Get All Clusters** API call under the cluster folder.
 
+![FOLDER](img/4-folder-structure.png "FOLDER")
+
+* Make sure you select the Atlas environment variables and [update the Postman variable](https://learning.postman.com/docs/sending-requests/variables/) ProjectID value to your Project ID captured in the previous steps.
+![VARIABLES](img/5-variables.png "VARIABLES")
+![ENV](img/6-environment-variables.png "ENV")
+
+* Execute the API call by hitting the Send button and you should get a response containing a list of all your clusters (database deployments) alongside the cluster details, like whether backup is enabled or the cluster is running. 
+
+![API](img/7-api-call-list--clusters "API")
+
+Now explore all the APIs available to create your own automation. 
 
 
 ## Tips
@@ -49,4 +60,13 @@ Once you have imported this collection you will notice that we have a folder stu
 
 *Documentation link on the documentation section of Postman*
 ![DOCUMENTATION](img/2-documentation.png "DOCUMENTATION")
+
+
+
+One last tip: Once you have tested all your API calls to build your automation, Postman allows you to export that in code snippets in your favorite programming language.
+
+
+![CODE1](img/8-code-snippet-1.png "CODE1")
+![CODE2](img/9-code-snippet-python.png "CODE2")
+
 
