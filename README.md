@@ -19,7 +19,7 @@ __1. Configure Laptop__
 
 __2. Configure MongoDB Atlas__
 
-* Create a free [MongoDB Atlas account](https://account.mongodb.com/account/register)to have access to a free cluster to play around in. Make sure you create an organization and a project. Don't skip that step. Here is a coupon code **GOATLAS10** for some credits to explore more features (valid as of August 2021). Watch this [video] (https://www.youtube.com/watch?v=FxeQ5eck3tw) to learn how to add these credits to your account.
+* Create a free [MongoDB Atlas account](https://account.mongodb.com/account/register) to have access to a free cluster to play around in. Make sure you create an organization and a project. Don't skip that step. Here is a coupon code **GOATLAS10** for some credits to explore more features (valid as of August 2021). Watch this [video] (https://www.youtube.com/watch?v=FxeQ5eck3tw) to learn how to add these credits to your account.
 * Create a dedicated [database deployment](https://docs.atlas.mongodb.com/create-database-deployment/#create-a-new-database-deployment) (cluster). Use a M10 tier or higher to have full access to all of the APIs resources*. Feel free to explore all of the other options, but the default options should be fine for this example.
 * Create an [API key](https://docs.atlas.mongodb.com/configure-api-access/) with Organization Owner privileges and save the public/private key to use when calling APIs. Also, don't forget to add your laptop/workstation IP to the API access list. 
 * Navigate to your Project Settings and retrieve your Project ID so it can be used in one of our examples below. 
