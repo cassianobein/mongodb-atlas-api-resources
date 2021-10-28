@@ -462,7 +462,7 @@
 							}
 						},
 						"url": {
-							"raw": "{{base_url}}/api/atlas/{{version}}/groups/{{ProjectID}}/accessList/",
+							"raw": "{{base_url}}/api/atlas/{{version}}/groups/{{ProjectID}}/accessList/{{ACCESS-LIST-ENTRY}}",
 							"host": [
 								"{{base_url}}"
 							],
@@ -473,7 +473,7 @@
 								"groups",
 								"{{ProjectID}}",
 								"accessList",
-								""
+								"{{ACCESS-LIST-ENTRY}}"
 							]
 						},
 						"description": "https://docs.atlas.mongodb.com/reference/api/ip-access-list/delete-one-access-list-entry/"
